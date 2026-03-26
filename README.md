@@ -1,5 +1,5 @@
 
-1. Title & Objective
+# 1. Title & Objective
 
 # Title:
 # “Building a Console-Based POS System in C – A Beginner’s Guide”
@@ -21,7 +21,7 @@ Processes sales transactions
 Stores data using files
 Generates receipts
 
-2. Quick Summary of the Technology
+# 2. Quick Summary of the Technology
 
 # What is C?
 C is a low-level, procedural programming language used for system programming and embedded systems.
@@ -36,13 +36,13 @@ Compilers
 # Real-world example:
 The Linux kernel is written in C.
 
-3. System Requirements
+# 3. System Requirements
 Operating System: Windows / Linux / Mac
 Compiler: GCC (MinGW for Windows)
 Editor: Visual Studio Code (recommended)
 Terminal: Command Prompt / Bash
 
-4. Installation & Setup Instructions
+# 4. Installation & Setup Instructions
 # Step 1: Install GCC
 Install MinGW
 Add bin folder to PATH
@@ -59,7 +59,7 @@ gcc main.c inventory.c customer.c sales.c -o pos
 # Step 4: Run the Program
 pos
 
-5. Minimal Working Example
+# 5. Minimal Working Example
 # Description:
 A simple program that writes and reads product data from a file.
 
@@ -96,7 +96,7 @@ ID: 1
 Name: Sugar
 Price: 120.50
 
-6. AI Prompt Journal (Updated)
+# 6. AI Prompt Journal (Updated)
 # Prompt 1
 
 Prompt Used:
@@ -262,7 +262,7 @@ Suggested improvements like better UI, error handling, and code structure.
 Evaluation:
 Helped refine the project into a portfolio-ready application.
 
-7. Common Issues & Fixes
+# 7. Common Issues & Fixes
 Error: gcc not recognized
 
 # Fix:
@@ -285,7 +285,7 @@ Error: Data not saving
 Ensure file opened in correct mode (wb, rb)
 Always close files
 
-8. References
+# 8. References
 Official GCC Documentation
 C Programming Tutorials (GeeksforGeeks)
 Stack Overflow (debugging help)
