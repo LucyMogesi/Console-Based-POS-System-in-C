@@ -1,0 +1,4 @@
+code,name,price,quantity,min_stock
+1,Shoes,2500.00,444,1
+2,T-shirts,1000.00,700,1
+8,sock,100.00,3,1
